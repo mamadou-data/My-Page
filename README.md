@@ -8,6 +8,7 @@ Après une alternance chez **AXA France** en tant que **Chargé d’Études Stat
 
 🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay)  
 🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille)
+
 📊 Power BI Certified | Dataiku Advanced Designer  
 🎯 PL-300 (en cours)
 
@@ -56,7 +57,7 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 ---
 
-## 🚀 Projets Data – GitHub
+## Projets Data – GitHub
 
 ### 📦 **Sales Analytics – ETL & BI**
 Pipeline ETL complet : ingestion → PostgreSQL → Power BI  
@@ -121,19 +122,19 @@ Nettoyage, analyse exploratoire et visualisation
 ---
 
 ## 📬 Me contacter
-- 💼 LinkedIn : https://www.linkedin.com/in/diedhiou/
+- 💼 [LinkedIn](https://www.linkedin.com/in/diedhiou/)
 - 📧 Email : mdiedhio@gmail.com
 
 ---
 
 ## À propos de ce portfolio
 Ce portfolio met en avant :
-- une **maîtrise complète de la chaîne Data**
-- une forte orientation **business & décision**
-- des projets **concrets et déployés**
-- un profil opérationnel prêt pour un **CDD ou CDI Data Analyst / BI**
+- une maîtrise complète de la chaîne Data
+- une forte orientation business & décision
+- des projets concrets et déployés
+- un profil opérationnel prêt pour un CDD ou CDI Data Analyst / BI
 
 ---
 
-> 💡 N’hésitez pas à explorer les projets, dashboards et applications.  
+> N’hésitez pas à explorer les projets, dashboards et applications.  
 > Je suis ouvert aux opportunités **Data Analyst / BI Analyst / Chargé d’Études Statistiques**.
