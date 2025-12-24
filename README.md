@@ -7,6 +7,7 @@
 Après une alternance chez **AXA France** en tant que **Chargé d’Études Statistiques**, je suis actuellement **à la recherche d’un poste en CDD ou CDI** (Data Analyst / BI Analyst / Chargé d’Études).
 
 📍 France  
+
 🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay)  
 📊 Power BI Certified | Dataiku Advanced Designer  
 🎯 PL-300 (en cours)
@@ -61,23 +62,23 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 ### 📦 **Sales Analytics – ETL & BI**
 Pipeline ETL complet : ingestion → PostgreSQL → Power BI  
 Analyse de la performance commerciale et KPIs décisionnels  
-- https://github.com/douboym/Sales-Analytics-ETL  
-- https://github.com/douboym/ETL-Sales-Analysis  
+- 👉 **[Sales-Analytics-ETL](https://github.com/douboym/Sales-Analytics-ETL)**
+- 👉 **[ETL-Sales-Analysis](https://github.com/douboym/ETL-Sales-Analysis)** 
 
 ---
 
 ### 📊 **Power BI – Dashboards & Cas pratiques**
 Dashboards BI sur des cas Ventes, RH et CRM  
 DAX, modélisation avancée, Power BI Service  
-- https://github.com/douboym/Power-BI  
+- 👉 **[Power-BI](https://github.com/douboym/Power-BI)** 
 
 ---
 
 ### 📉 **Scoring & Prédiction du Risque**
 Modèles de scoring et segmentation des profils assurés  
 Régression & classification supervisée  
-- https://github.com/douboym/Projet-Scoring  
-- https://github.com/douboym/Risk-Profil-Prediction  
+- 👉 **[Projet-Scoring](https://github.com/douboym/Projet-Scoring)**
+- 👉 **[Risk-Profil-Prediction](https://github.com/douboym/Risk-Profil-Prediction)**
 
 ---
 
@@ -85,21 +86,21 @@ Régression & classification supervisée
 Anticipation des départs clients  
 Machine Learning + évaluation complète  
 Déploiement via **Streamlit**  
-- https://github.com/douboym/telco_churn_prediction  
+- 👉 **[telco_churn_prediction](https://github.com/douboym/telco_churn_prediction)**  
 
 ---
 
 ### 🌸 **Machine Learning & Streamlit**
 Application web interactive (Iris Dataset)  
 Classification et visualisation en temps réel  
-- https://github.com/douboym/iris-streamlit-app  
+- 👉 **[iris-streamlit-app](https://github.com/douboym/iris-streamlit-app)**
 
 ---
 
 ### 🌐 **Web Scraping & Analyse de données**
 Collecte automatisée de données  
 Nettoyage, analyse exploratoire et visualisation  
-- https://github.com/douboym/projet-scraping  
+- 👉 **[projet-scraping](https://github.com/douboym/projet-scraping)**
 
 ---
 
