@@ -73,6 +73,29 @@ DAX, modélisation avancée, Power BI Service
 
 ---
 
+### 🚕 NYC Yellow Taxi – ELT Pipeline sur GCP
+**Pipeline ELT cloud-native** construit sur Google Cloud Platform, couvrant l’ingestion, le chargement, la transformation, l’orchestration et l’analyse des données.
+
+**Technologies :**
+- Google Cloud Storage
+- BigQuery
+- Cloud Composer (Airflow)
+- Python
+- SQL
+- BigQuery Notebooks
+
+**Fonctionnalités clés :**
+- Ingestion automatisée des données NYC Taxi
+- Chargement BigQuery idempotent
+- Transformations SQL analytiques
+- Orchestration Airflow
+- Vues analytiques & notebooks
+- Projet prêt pour BigQuery ML
+
+👉 **[Projet Yellow Taxi Trips](https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics)**
+
+---
+
 ## 📉 **Scoring & Prédiction du Risque**
 Modèles de scoring et segmentation des profils assurés  
 Régression & classification supervisée  
