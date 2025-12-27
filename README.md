@@ -61,46 +61,64 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 ## 📦 **Sales Analytics – ETL & BI**
 Pipeline ETL complet : ingestion → PostgreSQL → Power BI  
 Analyse de la performance commerciale et KPIs décisionnels  
-- 👉 **[Sales-Analytics-ETL](https://github.com/douboym/Sales-Analytics-ETL)**
-- 👉 **[ETL-Sales-Analysis](https://github.com/douboym/ETL-Sales-Analysis)** 
+- 👉 **[Sales-Analytics-ETL](https://github.com/mamadou-data/Sales-Analytics-ETL)**
+- 👉 **[ETL-Sales-Analysis](https://github.com/mamadou-data/ETL-Sales-Analysis)** 
 
 ---
 
-## 📊 **Power BI – Dashboards & Cas pratiques**
+## 📊 **Projets Power BI – Dashboards & Cas pratiques**
 Dashboards BI sur des cas Ventes, RH et CRM  
 DAX, modélisation avancée, Power BI Service  
-- 👉 **[Power-BI](https://github.com/douboym/Power-BI)** 
+- 👉 **[Power-BI](https://github.com/mamadou-data/Power-BI)** 
 
 ---
 
-### 🚕 NYC Yellow Taxi – ELT Pipeline sur GCP
-**Pipeline ELT cloud-native** construit sur Google Cloud Platform, couvrant l’ingestion, le chargement, la transformation, l’orchestration et l’analyse des données.
+## 🚕 **NYC Yellow Taxi – ELT Pipeline sur GCP**
+Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis l’ingestion de données brutes jusqu’à l’analyse avancée et la préparation au Machine Learning.
 
-**Technologies :**
-- Google Cloud Storage
-- BigQuery
-- Cloud Composer (Airflow)
+**Objectif :** concevoir un pipeline reproductible, automatisé et orienté analytics, basé sur des données réelles à fort volume.
+
+### 🔧 Stack technique
+- Google Cloud Storage (GCS)
+- BigQuery (RAW / TRANSFORMED / VIEWS)
+- Cloud Composer (Airflow 2)
 - Python
-- SQL
+- SQL (BigQuery)
 - BigQuery Notebooks
 
-**Fonctionnalités clés :**
-- Ingestion automatisée des données NYC Taxi
-- Chargement BigQuery idempotent
-- Transformations SQL analytiques
-- Orchestration Airflow
-- Vues analytiques & notebooks
-- Projet prêt pour BigQuery ML
+### 🏗️ Architecture & étapes clés
+- **Ingestion automatisée** des données NYC Yellow Taxi (format Parquet)
+- **Stockage cloud** des données brutes dans GCS
+- **Chargement BigQuery** idempotent (gestion des doublons par fichier source)
+- **Transformation SQL** (nettoyage, filtrage, structuration analytique)
+- **Orchestration Airflow** via Cloud Composer
+- **Création de vues analytiques** prêtes pour le reporting
+- **Analyse & visualisation** via Notebooks Python BigQuery
+- **Projet ML-ready** (préparation BigQuery ML)
 
-👉 **[Projet Yellow Taxi Trips](https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics)**
+### 📊 Cas d’analyses réalisés
+- Évolution de la demande dans le temps (journalière, hebdomadaire, mensuelle)
+- Identification des **heures de pointe par borough et zone**
+- Analyse spatiale et temporelle des usages taxi
+- Préparation de features pour usages prédictifs
+
+### 📦 Livrables
+- Pipeline Airflow opérationnel
+- Tables BigQuery RAW et TRANSFORMED
+- Vues analytiques SQL
+- Notebooks d’analyse Python
+- Documentation complète (README)
+
+👉 **Code source :**  
+- 🔗 **[Yellow_Taxi_Trips_Analytics](https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics)**
 
 ---
 
 ## 📉 **Scoring & Prédiction du Risque**
 Modèles de scoring et segmentation des profils assurés  
 Régression & classification supervisée  
-- 👉 **[Projet-Scoring](https://github.com/douboym/Projet-Scoring)**
-- 👉 **[Risk-Profil-Prediction](https://github.com/douboym/Risk-Profil-Prediction)**
+- 👉 **[Projet-Scoring](https://github.com/mamadou-data/Projet-Scoring)**
+- 👉 **[Risk-Profil-Prediction](https://github.com/mamadou-data/Risk-Profil-Prediction)**
 
 ---
 
@@ -108,21 +126,21 @@ Régression & classification supervisée
 Anticipation des départs clients  
 Machine Learning + évaluation complète  
 Déploiement via **Streamlit**  
-- 👉 **[telco_churn_prediction](https://github.com/douboym/telco_churn_prediction)**  
+- 👉 **[telco_churn_prediction](https://github.com/mamadou-data/telco_churn_prediction)**  
 
 ---
 
 ## 🌸 **Machine Learning & Streamlit**
 Application web interactive (Iris Dataset)  
 Classification et visualisation en temps réel  
-- 👉 **[iris-streamlit-app](https://github.com/douboym/iris-streamlit-app)**
+- 👉 **[iris-streamlit-app](https://github.com/mamadou-data/iris-streamlit-app)**
 
 ---
 
 ## 🌐 **Web Scraping & Analyse de données**
 Collecte automatisée de données  
 Nettoyage, analyse exploratoire et visualisation  
-- 👉 **[projet-scraping](https://github.com/douboym/projet-scraping)**
+- 👉 **[projet-scraping](https://github.com/mamadou-data/projet-scraping)**
 
 ---
 
