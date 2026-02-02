@@ -12,7 +12,7 @@ title: "Portfolio"
     <img src="https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="img/CV_Mamadou_Diedhiou.pdf" target="_blank">
+  <a href="img/CV_Mamadou_DIEDHIOU.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Télécharger-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;&nbsp;
