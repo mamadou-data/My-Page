@@ -4,14 +4,18 @@ theme: jekyll-theme-cayman
 show_downloads: true
 lang: fr
 
+# IMPORTANT pour GitHub Pages (Project Page)
+url: "https://mamadou-data.github.io"
+baseurl: "/My-Page"
+
 # Logo / photo affichée en haut
-logo: img/mypicture.jpg
+logo: "/img/mypicture.jpg"
 
 # Configuration GitHub
 github:
   is_project_page: true
-  repository_url: https://github.com/mamadou-data
+  repository_url: "https://github.com/mamadou-data/My-Page"
 
-# Réseaux sociaux (utilisés par certains thèmes / plugins)
+# Réseaux sociaux
 social_links:
-  linkedin: diedhiou
+  linkedin: "diedhiou"
