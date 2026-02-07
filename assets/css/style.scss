@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Amélioration lisibilité + largeur centrée */
+.main-content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Titres plus lisibles */
+.main-content h1 { font-size: 2.2rem; }
+.main-content h2 { font-size: 1.8rem; }
+.main-content h3 { font-size: 1.35rem; }
+
+/* Listes plus aérées */
+.main-content ul, .main-content ol {
+  padding-left: 1.3rem;
+}
+.main-content li {
+  margin: 0.25rem 0;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .main-content {
+    font-size: 16px;
+    padding: 1.25rem 1rem;
+  }
+}
