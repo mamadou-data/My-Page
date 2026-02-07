@@ -19,23 +19,27 @@ Ouvert aux opportunités <b>CDD / CDI – Data Analyst / BI Analyst / Chargé d�
 📌 Disponible immédiatement – France / Remote
 </p>
 
----
+<h2 align="center">🚀 Projets phares</h2>
 
-## 🚀 Projets phares
-
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin: 14px 0;">
+<p align="center"
+   style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin:20px 0;">
+  
   <a href="https://github.com/mamadou-data/retail-sales-etl-bi" target="_blank">
     <img src="https://img.shields.io/badge/Retail%20Sales%20ETL%20%26%20BI-MySQL%20%7C%20Power%20BI-2ea44f?style=for-the-badge" />
   </a>
+
   <a href="https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics" target="_blank">
     <img src="https://img.shields.io/badge/NYC%20Yellow%20Taxi%20ELT-GCP%20%7C%20BigQuery%20%7C%20Airflow-0A66C2?style=for-the-badge" />
   </a>
+
   <a href="https://github.com/mamadou-data/Power-BI" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI%20Dashboards-DAX%20%7C%20Mod%C3%A9lisation-555?style=for-the-badge" />
   </a>
+
   <a href="https://github.com/mamadou-data/Projet-Scoring" target="_blank">
     <img src="https://img.shields.io/badge/Scoring%20%26%20Risk%20Prediction-ML%20%7C%20Classification-6f42c1?style=for-the-badge" />
   </a>
+
 </p>
 
 ---
