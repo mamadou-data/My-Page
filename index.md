@@ -19,28 +19,46 @@ Ouvert aux opportunités <b>CDD / CDI – Data Analyst / BI Analyst / Chargé d�
 📌 Disponible immédiatement – France / Remote
 </p>
 
-<h2 align="center">🚀 Projets phares</h2>
-
-<p align="center"
-   style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin:20px 0;">
-  
-  <a href="https://github.com/mamadou-data/retail-sales-etl-bi" target="_blank">
-    <img src="https://img.shields.io/badge/Retail%20Sales%20ETL%20%26%20BI-MySQL%20%7C%20Power%20BI-2ea44f?style=for-the-badge" />
+<p align="center" style="display:flex; justify-content:center; gap:20px; margin-top:10px; flex-wrap:wrap;">
+  <a href="https://learn.microsoft.com/en-us/users/mamadoudiedhiou-1442/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank">
+    <img src="img/badges/pl-300.png?v=1" height="85"/>
   </a>
-
-  <a href="https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics" target="_blank">
-    <img src="https://img.shields.io/badge/NYC%20Yellow%20Taxi%20ELT-GCP%20%7C%20BigQuery%20%7C%20Airflow-0A66C2?style=for-the-badge" />
+  <a href="https://www.credly.com/badges/d63b076f-1765-4b59-8bff-2f666a457e42/linked_in?t=sxum6j" target="_blank">
+    <img src="img/badges/azure-data-fundamentals.png?v=1" height="85"/>
   </a>
-
-  <a href="https://github.com/mamadou-data/Power-BI" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI%20Dashboards-DAX%20%7C%20Mod%C3%A9lisation-555?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/mamadou-data/Projet-Scoring" target="_blank">
-    <img src="https://img.shields.io/badge/Scoring%20%26%20Risk%20Prediction-ML%20%7C%20Classification-6f42c1?style=for-the-badge" />
-  </a>
-
 </p>
+
+<div align="center">
+  <h2>🚀 Projets phares</h2>
+
+  <p style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin:20px 0;">
+
+    <a href="https://github.com/mamadou-data/retail-sales-etl-bi" target="_blank">
+      <img src="https://img.shields.io/badge/Retail%20Sales%20ETL%20%26%20BI-MySQL%20%7C%20Power%20BI-2ea44f?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics" target="_blank">
+      <img src="https://img.shields.io/badge/NYC%20Yellow%20Taxi%20ELT-GCP%20%7C%20BigQuery%20%7C%20Airflow-0A66C2?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/mamadou-data/Power-BI" target="_blank">
+      <img src="https://img.shields.io/badge/Power%20BI%20Dashboards-DAX%20%7C%20Mod%C3%A9lisation-555?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/mamadou-data/Projet-Scoring" target="_blank">
+      <img src="https://img.shields.io/badge/Scoring%20%26%20Risk%20Prediction-ML%20%7C%20Classification-6f42c1?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/mamadou-data/telco_churn_prediction" target="_blank">
+      <img src="https://img.shields.io/badge/Churn%20Prediction-T%C3%A9l%C3%A9coms%20%7C%20ML-e5533d?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/mamadou-data/iris-streamlit-app" target="_blank">
+      <img src="https://img.shields.io/badge/ML%20%26%20Streamlit-Classification%20%7C%20App%20Web-7952b3?style=for-the-badge" />
+    </a>
+
+  </p>
+</div>
 
 ---
 
