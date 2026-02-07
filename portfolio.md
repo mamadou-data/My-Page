@@ -3,6 +3,40 @@ layout: page
 title: Portfolio
 ---
 
+<style>
+/* Largeur centrée + lisibilité */
+.main-content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+/* Titres */
+.main-content h1 { font-size: 2.2rem; }
+.main-content h2 { font-size: 1.8rem; }
+.main-content h3 { font-size: 1.35rem; }
+
+/* Listes */
+.main-content ul, 
+.main-content ol {
+  padding-left: 1.4rem;
+}
+.main-content li {
+  margin: 0.3rem 0;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .main-content {
+    font-size: 16px;
+    padding: 1.25rem 1rem;
+  }
+}
+</style>
+
+
 Data Analyst / BI orienté décision métier. Spécialisé en Power BI, automatisation analytique et modélisation statistique.  
 Habitué aux environnements corporate et aux projets data end-to-end.
 
@@ -12,14 +46,16 @@ je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Cha
 📌 Disponible immédiatement – France / Remote
 
 ---
-# Formations
+
+## Formations
+
 🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay, Evry) – 2024/2025  
 🎓 Master 2 – Expertise Économique (Lille) – 2022/2024  
 🎓 Licence 3 – Économétrie (Orléans) – 2022/2023  
 
 ---
 
-# Compétences clés
+## Compétences clés
 
 ### Business Intelligence & Data Visualisation
 - Power BI (avancé) : DAX, KPIs, modélisation étoile/flocon
@@ -45,7 +81,7 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 ---
 
-# 💼 Expérience professionnelle
+#~# 💼 Expérience professionnelle
 
 ### **Chargé d’Études Statistiques – AXA France**  
 📅 Septembre 2024 – Septembre 2025  
@@ -62,9 +98,9 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 ---
 
-# Projets Data – GitHub
+## Projets Data – GitHub
 
-## 📊 Retail Sales ETL & BI (MySQL / Power BI)
+### 📊 Retail Sales ETL & BI (MySQL / Power BI)
 
 Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.
 
@@ -88,19 +124,19 @@ Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la déc
 
 ---
 
-## 📊 **Projets Power BI – Dashboards & Cas pratiques**
+### 📊 **Projets Power BI – Dashboards & Cas pratiques**
 - Dashboards BI sur des cas Ventes, RH et CRM  
 - DAX, modélisation avancée, Power BI Service  
 - 👉 **[Power-BI](https://github.com/mamadou-data/Power-BI)** 
 
 ---
 
-## 🚕 **NYC Yellow Taxi – ELT Pipeline sur GCP**
+### 🚕 **NYC Yellow Taxi – ELT Pipeline sur GCP**
 Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis l’ingestion de données brutes jusqu’à l’analyse avancée et la préparation au Machine Learning.
 
 **Objectif :** concevoir un pipeline reproductible, automatisé et orienté analytics, basé sur des données réelles à fort volume.
 
-### 🔧 Stack technique
+* ### 🔧 Stack technique
 - Google Cloud Storage (GCS)
 - BigQuery (RAW / TRANSFORMED / VIEWS)
 - Cloud Composer (Airflow 2)
@@ -108,7 +144,7 @@ Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis 
 - SQL (BigQuery)
 - BigQuery Notebooks
 
-### 🏗️ Architecture & étapes clés
+* ### 🏗️ Architecture & étapes clés
 - **Ingestion automatisée** des données NYC Yellow Taxi (format Parquet)
 - **Stockage cloud** des données brutes dans GCS
 - **Chargement BigQuery** idempotent (gestion des doublons par fichier source)
@@ -118,13 +154,13 @@ Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis 
 - **Analyse & visualisation** via Notebooks Python BigQuery
 - **Projet ML-ready** (préparation BigQuery ML)
 
-### 📊 Cas d’analyses réalisés
+* ### 📊 Cas d’analyses réalisés
 - Évolution de la demande dans le temps (journalière, hebdomadaire, mensuelle)
 - Identification des **heures de pointe par borough et zone**
 - Analyse spatiale et temporelle des usages taxi
 - Préparation de features pour usages prédictifs
 
-### 📦 Livrables
+* ### 📦 Livrables
 - Pipeline Airflow opérationnel
 - Tables BigQuery RAW et TRANSFORMED
 - Vues analytiques SQL
@@ -136,7 +172,7 @@ Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis 
 
 ---
 
-## 📉 **Scoring & Prédiction du Risque**
+### 📉 **Scoring & Prédiction du Risque**
 Modèles de scoring et segmentation des profils assurés  
 Régression & classification supervisée  
 - 👉 **[Projet-Scoring](https://github.com/mamadou-data/Projet-Scoring)**
@@ -144,7 +180,7 @@ Régression & classification supervisée
 
 ---
 
-## 📡 **Churn Prediction – Télécommunications**
+### 📡 **Churn Prediction – Télécommunications**
 Anticipation des départs clients  
 Machine Learning + évaluation complète  
 Déploiement via **Streamlit**  
@@ -152,21 +188,21 @@ Déploiement via **Streamlit**
 
 ---
 
-## 🌸 **Machine Learning & Streamlit**
+### 🌸 **Machine Learning & Streamlit**
 Application web interactive (Iris Dataset)  
 Classification et visualisation en temps réel  
 - 👉 **[iris-streamlit-app](https://github.com/mamadou-data/iris-streamlit-app)**
 
 ---
 
-## 🌐 **Web Scraping & Analyse de données**
+### 🌐 **Web Scraping & Analyse de données**
 Collecte automatisée de données  
 Nettoyage, analyse exploratoire et visualisation  
 - 👉 **[projet-scraping](https://github.com/mamadou-data/projet-scraping)**
 
 ---
 
-# 🎓 Certifications
+## 🎓 Certifications
 - 📈 Microsoft Certified : Power BI Data Analyst Associate  
 - ☁️ Microsoft Certified : Azure Data Fundamentals
 - 🧠 Dataiku Advanced Designer Certificate
